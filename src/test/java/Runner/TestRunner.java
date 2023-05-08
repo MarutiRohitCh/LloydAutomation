@@ -12,7 +12,6 @@ import org.junit.runner.RunWith;
                 "html:target/reports.html",
 
 
-
         }
 )
 public class TestRunner {
